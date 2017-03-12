@@ -1,0 +1,4 @@
+## YAML Template.
+api_v1_book:
+  type: rest
+  resource: "@AppBundle/Controller/BookController.php"
